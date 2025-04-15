@@ -16,6 +16,8 @@ This project demonstrates a complete end-to-end data analytics process, encompas
 4. **Data Visualization**: Created visual representations of the data to highlight key findings.
 5. **Presentation**: Compiled the analysis and visualizations into a coherent report/dashboard for stakeholders.
 
+## Dashboard
+![Dashboard](assets/dashboard.png)
 
 ## Conclusion
 
